@@ -3,7 +3,7 @@
 	"description": "The coolest project ever",
   "keywords": [ "new","fresh","freecodecamp"],
   "license": "MIT",
-  "version": "0.3.0",
+  "version": "2.10.2",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0",
