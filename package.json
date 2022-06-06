@@ -1,5 +1,7 @@
-{	"author": "Vlade Shestakov",
+{
+	"author": "Vlade Shestakov",
 	"description": "The coolest project ever",
+  "keywords": [ "new","fresh","freecodecamp"],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
